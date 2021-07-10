@@ -12,6 +12,11 @@ import TweetBox from "./TweetBox";
             <TweetBox />
             {/*Post */}
             <Post />
+            <Post />
+            <Post />
+            <Post />
+            <Post />
+            <Post />
             {/*Post */}
             {/*Post */}
             {/*Post */}
