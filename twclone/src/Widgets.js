@@ -19,6 +19,7 @@ function Widgets(){
                 <h2>What's happening</h2>
                 <TwitterTweetEmbed tweetId={"1413736546373718016"} /> 
                 <TwitterTimelineEmbed sourceTye="profile" screenName="vishy64theking" options={{height: 400}} />
+                <TwitterShareButton url={"https://atcoder.jp/contests/abc210"} options={{text: "Try this contest", via:"iamgonnabehokage"}} />
             </div>
         </div>
     );
